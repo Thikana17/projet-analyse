@@ -1,0 +1,51 @@
+event_id,date,year,month,region,event_type,severity_score,description,is_policy,is_extreme_weather,is_disaster
+CE001,2003-08-01,2003,8,Europe,heatwave,8,"European heatwave kills 70,000+",False,True,False
+CE002,2004-12-26,2004,12,Asia,tsunami,9,"Indian Ocean tsunami (227,000 deaths)",False,False,True
+CE003,2005-08-29,2005,8,USA,hurricane,9,"Hurricane Katrina (~1,800 deaths, $125B)",False,True,False
+CE004,2008-05-12,2008,5,China,earthquake,8,Sichuan earthquake,False,False,True
+CE005,2009-12-07,2009,12,global,policy,8,Copenhagen Climate Conference COP15,True,False,False
+CE006,2010-07-15,2010,7,Russia,heatwave_fire,8,Russian heatwave + wildfires,False,True,False
+CE007,2010-08-01,2010,8,Pakistan,flood,8,"Pakistan floods (2,000 deaths, $43B)",False,True,False
+CE008,2011-03-11,2011,3,Japan,tsunami,9,Tōhoku earthquake + Fukushima disaster,False,False,True
+CE009,2012-10-29,2012,10,USA,hurricane,8,Hurricane Sandy ($70B),False,True,False
+CE010,2013-11-08,2013,11,Philippines,typhoon,8,"Typhoon Haiyan (6,300 deaths)",False,True,False
+CE011,2015-04-25,2015,4,Nepal,earthquake,8,Nepal earthquake,False,False,True
+CE012,2015-12-12,2015,12,global,policy,10,Paris Agreement signed (COP21),True,False,False
+CE013,2016-04-15,2016,4,global,policy,7,Paris Agreement opens for signing,True,False,False
+CE014,2017-08-25,2017,8,USA,hurricane,8,Hurricane Harvey ($125B),False,True,False
+CE015,2017-09-06,2017,9,Caribbean,hurricane,8,Hurricane Irma,False,True,False
+CE016,2017-09-20,2017,9,Caribbean,hurricane,8,Hurricane Maria (Puerto Rico),False,True,False
+CE017,2018-07-23,2018,7,Greece,wildfire,6,Athens wildfires,False,True,False
+CE018,2018-11-08,2018,11,USA,wildfire,7,California Camp Fire (85 deaths),False,True,False
+CE019,2019-08-01,2019,8,Brazil,wildfire,7,Amazon wildfires,False,True,False
+CE020,2019-09-23,2019,9,global,policy,7,UN Climate Action Summit,True,False,False
+CE021,2019-12-15,2019,12,Australia,wildfire,8,Australian Black Summer bushfires,False,True,False
+CE022,2020-01-15,2020,1,Australia,wildfire,8,Black Summer continues,False,True,False
+CE023,2020-06-20,2020,6,Siberia,heat,8,Siberian heatwave (38°C in Verkhoyansk),False,True,False
+CE024,2020-11-01,2020,11,global,policy,7,US re-joins Paris (Biden announcement),True,False,False
+CE025,2021-02-15,2021,2,USA,winter_storm,7,Texas winter storm (Uri),False,True,False
+CE026,2021-06-26,2021,6,Canada,heat,8,Pacific Northwest heat dome (49.6°C),False,True,False
+CE027,2021-07-14,2021,7,Europe,flood,8,Western Europe floods (Germany/Belgium),False,True,False
+CE028,2021-11-12,2021,11,global,policy,8,COP26 Glasgow Climate Pact,True,False,False
+CE029,2022-03-15,2022,3,Antarctica,heat,7,Antarctic +40°C anomaly,False,True,False
+CE030,2022-06-15,2022,6,India,heat,7,India-Pakistan extreme heatwave,False,True,False
+CE031,2022-08-15,2022,8,Europe,drought,8,Worst European drought in 500 years,False,True,False
+CE032,2022-09-15,2022,9,Pakistan,flood,9,"Pakistan floods (1,700 deaths, $30B)",False,True,False
+CE033,2022-11-20,2022,11,global,policy,8,COP27 Loss & Damage fund agreement,True,False,False
+CE034,2023-02-06,2023,2,Turkey,earthquake,9,"Turkey-Syria earthquake (50,000+ deaths)",False,False,True
+CE035,2023-07-15,2023,7,global,temperature,9,Hottest month in recorded history,False,False,False
+CE036,2023-08-15,2023,8,Hawaii,wildfire,8,Lahaina wildfire (100 deaths),False,True,False
+CE037,2023-09-10,2023,9,Libya,flood,8,"Derna dam collapse (11,000+ deaths)",False,True,False
+CE038,2023-12-13,2023,12,global,policy,9,COP28 'transitioning away from fossil fuels',True,False,False
+CE039,2024-04-15,2024,4,UAE,flood,7,Dubai flooding from extreme rainfall,False,True,False
+CE040,2024-07-22,2024,7,global,temperature,9,Hottest day ever recorded (17.16°C),False,False,False
+CE041,2024-09-26,2024,9,USA,hurricane,8,Hurricane Helene ($100B+),False,True,False
+CE042,2024-10-29,2024,10,Spain,flood,8,Valencia floods (200+ deaths),False,True,False
+CE043,2024-11-22,2024,11,global,policy,7,COP29 Baku climate finance deal $300B/year,True,False,False
+CE044,2025-01-07,2025,1,USA,wildfire,9,Los Angeles wildfires ($250B+ damage),False,True,False
+CE045,2025-03-15,2025,3,global,policy,8,ICJ climate change advisory opinion,True,False,False
+CE046,2025-06-20,2025,6,Europe,heatwave,7,European heatwave 45°C+,False,True,False
+CE047,2025-09-15,2025,9,Atlantic,hurricane,8,Multiple major Atlantic hurricanes,False,True,False
+CE048,2025-11-15,2025,11,global,policy,8,COP30 Belém Brazil 'turn pledges into action',True,False,False
+CE049,2026-02-15,2026,2,Australia,flood,7,Queensland flooding,False,True,False
+CE050,2026-04-10,2026,4,global,temperature,7,1.5°C threshold consistently breached,False,False,False
